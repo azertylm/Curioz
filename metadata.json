@@ -1,0 +1,6 @@
+{
+  "name": "Curioz — Alphabette",
+  "description": "Cabinet de curiosités interactif : photographiez un objet ou explorez un mystère pour révéler son époque, son usage et sa vie secrète selon votre niveau de lecture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
